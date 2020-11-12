@@ -1,0 +1,7 @@
+I have included all 4 requirements for this assignment
+    1. You can move the camera around the world and adjust its height with 2 sliders
+    2. It includes multiple parametric curves (Hermite)
+    3. With the way the lines cross and curve, it is apparent this is in 3D
+    4. After visual and manual inspection, you can tell I use an orthographic projection
+
+I have also included an object that moves along this path, changing its orientation and doing flips as it goes.
